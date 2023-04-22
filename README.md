@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Edouard Gloux</h1>
 <h3 align="center">A passionate frontend developer from France.</h3>
 
-- 🔭 I’m currently working on ** on internal projects at Zenika**
+- 🔭 I’m currently working on **on internal projects at Zenika**
 
 - 🌱 I’m currently learning **Frameworks, CI/CD and Testings**
 
